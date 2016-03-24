@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    dotenv (2.1.0)
+    httparty (0.13.7)
+      json (~> 1.8)
+      multi_xml (>= 0.5.2)
+    json (1.8.3)
+    multi_xml (0.5.5)
+    rainbow (2.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  dotenv
+  httparty
+  rainbow
+
+BUNDLED WITH
+   1.11.2
